@@ -1,0 +1,67 @@
+* {
+font-family:'微软雅黑';
+color:red;
+}
+
+/*设置背景图片*/
+QMainWindow{
+border-image:url("./images/bg1.png");
+}
+
+QToolButton{
+border:0px;
+cursor: pointer;
+font-size:16px;
+}
+
+QLineEdit{
+border:0px;
+font-size:16px;
+background-color: transparent;
+}
+
+QWidget[objectName="loginWin"]{
+border-image:url("./images/logo_bg.png");
+}
+
+QWidget[objectName="widgetUser"]{
+border-image:url("./images/usr_bg.png");
+}
+
+QWidget[objectName="widgetPwd"]{
+border-image:url("./images/pwd_bg.png");
+}
+
+QToolButton[objectName="okButton"] {
+border-style:none;
+border:1px solid #242424;
+color:#DCDCDC;
+padding:5px;
+border-radius:5px;
+background:qlineargradient(spread:pad,x1:0,y1:0,x2:0,y2:1,stop:0 #00e4ff,stop:1 #01727f);
+}
+
+QToolButton[objectName="okButton"]:hover {
+background:qlineargradient(spread:pad,x1:0,y1:0,x2:0,y2:1,stop:0 #007785,stop:1 #004e57);
+}
+
+QToolButton[objectName="okButton"]:pressed {
+background:qlineargradient(spread:pad,x1:0,y1:0,x2:0,y2:1,stop:0 #00e4ff,stop:1 #01727f);
+}
+
+QToolButton[objectName="cancelButton"] {
+border-style:none;
+border:1px solid #242424;
+color:#DCDCDC;
+padding:5px;
+border-radius:5px;
+background:qlineargradient(spread:pad,x1:0,y1:0,x2:0,y2:1,stop:0 #a2a1a1,stop:1 #525252);
+}
+
+QToolButton[objectName="cancelButton"]:hover {
+background:qlineargradient(spread:pad,x1:0,y1:0,x2:0,y2:1,stop:0 #646464,stop:1 #525252);
+}
+
+QToolButton[objectName="cancelButton"]:pressed {
+background:qlineargradient(spread:pad,x1:0,y1:0,x2:0,y2:1,stop:0 #a2a1a1,stop:1 #525252);
+}

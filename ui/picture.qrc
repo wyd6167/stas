@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="/">
+    <file>resource/unload.png</file>
+    <file>resource/上传.png</file>
+    <file>resource/重新2_t.png</file>
+    <file>resource/top_mosaic_09cm_area1_.png</file>
+    <file>resource/top.png</file>
+    <file>resource/重新2_t.png</file>
+    <file>resource/left.png</file>
+    <file>resource/person2.png</file>
+    <file>resource/personn.png</file>
+    <file>resource/u=1595072465,3644073269&amp;fm=193&amp;f=GIF.png</file>
+    <file>resource/logo.png</file>
+    <file>resource/print_new.png</file>
+    <file>resource/file_new.png</file>
+    <file>resource/save_new.png</file>
+    <file>resource/dir_new.png</file>
+    <file>resource/help_new1.png</file>
+    <file>resource/top.png</file>
+    <file>resource/left.png</file>
+    <file>resource/right.png</file>
+    <file>resource/bottom.png</file>
+    <file>resource/person.png</file>
+    <file>resource/pen.png</file>
+    <file>resource/mouse.png</file>
+  </qresource>
+</RCC>

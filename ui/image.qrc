@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="image">
+    <file>image/微信图片_20221210120703.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icon/关闭弹窗.svg</file>
+    <file>icon/删除菜单.svg</file>
+  </qresource>
+</RCC>
